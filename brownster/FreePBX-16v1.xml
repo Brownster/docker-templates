@@ -175,6 +175,7 @@ This Container uses tiredofit/debian:stretch as a base.
       <Name>ENABLE_XMPP</Name>
       <Value>FALSE</Value>
       <description>Enable XMPP Module with MongoDB - Default FALSE</description>
+    </Variable>
     <Variable>
       <Name>HTTP_PORT</Name>
       <Value>8085</Value>
